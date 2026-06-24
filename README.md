@@ -4,4 +4,5 @@
 ********
 [เรื่องราว](page01.md)<br>
 [ค้นหา](http://www.google.co.th)<br>
-[myprogram01](program01.py)
+[myprogram01](program01.py)<br>
+[myprogram02](program02.py)
