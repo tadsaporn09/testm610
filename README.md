@@ -3,4 +3,5 @@
 ม.6/10เลขที่9 <br>
 ********
 [เรื่องราว](page01.md)<br>
-[ค้นหา](http://www.google.co.th)
+[ค้นหา](http://www.google.co.th)<br>
+[my.program01](program01.py)
